@@ -1,17 +1,28 @@
-# Ohjelmointi 3 projektin tietovarasto
+# User manual
 
-Tämä on ryhmäsi yhteinen tietovarasto projektin tekemistä varten. Huomaa, että nyt
-projektissa on useita jäseniä ja tekemisesi vaikuttaa muiden työhön. Liitä harjoitustyön
-materiaalien etätietovarasto (https://course-gitlab.tuni.fi/compcs140-fall2023/group_template_project)
-paikalliseen tietovarastoosi remoteksi, jotta voit ladata kurssin tarjoamaa materiaalia.
+Our Weather App is the one you can use to check your weather right now, weather forecast and
+past weather as well.
 
-Tätä tiedostoa saa (ja on hyväkin) muuttaa projektin aloittamisen jälkeen.
+Different from other applications in the market, we have one of the most user-intuitive graphical
+user interfaces.
 
-# Programming 3 project repository
+You can quickly search for your own place, add it to your favorite list and see how the weather
+there looks at any time.
 
-This is the repository for implementing the course project for your group. Note that
-your project now has several members and what you do impacts other's work. Add the remote
-repository for the project material (https://course-gitlab.tuni.fi/compcs140-fall2023/group_template_project)
-as a remote to your local repository to fetch the code provided by the course.
+You also can see the weather in the past by selecting the ‘Historical weather’ button and
+preferred date in the ‘Preference‘ section.
 
-You are allowed (and probably should) make changes to this file after you have started your project.
+After that, all you need is to press the ‘See the weather’ button to find out how the weather looks
+there
+
+If you like, you can go back and play around without forgetting the old places saved in search
+history on the left side
+
+Want to feel more familiar? You can change the displayed unit and greeting name in the
+‘Preference’ section. For the nerds out there, the API key should be only changed with caution,
+and there is always a reset button to revert all the changes.
+
+#  Installation instruction
+The Weather App’s JAR file is located in the ‘Release’ folder of the group’s root directory. You
+can run it by using the command line, which is ‘java -jar "weather_app_release.jar"”’ at the
+‘Release’ folder’s directory.
