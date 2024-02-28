@@ -1,0 +1,65 @@
+{
+  "name": "Đức",
+  "apiKey": "c37bc522ccf0e106cd0d1be7e1ed9655",
+  "isCurrentWeather": true,
+  "chosenUnixTime": 979171200,
+  "isUnitSI": true,
+  "defaultPlace": {
+    "name": "Tampere",
+    "country": "FI",
+    "latitude": 61.4980214,
+    "longitude": 23.7603118
+  },
+  "favouritePlaces": [
+    {
+      "name": "Amsterdam",
+      "country": "NL",
+      "latitude": 52.3727598,
+      "longitude": 4.8936041
+    },
+    {
+      "name": "Stockholm",
+      "country": "SE",
+      "latitude": 59.3251172,
+      "longitude": 18.0710935
+    },
+    {
+      "name": "Tampere",
+      "country": "FI",
+      "latitude": 61.4980214,
+      "longitude": 23.7603118
+    }
+  ],
+  "searchHistories": [
+    {
+      "name": "Calgary",
+      "country": "CA",
+      "latitude": 51.0460954,
+      "longitude": -114.065465
+    },
+    {
+      "name": "Đà Thành",
+      "country": "VN",
+      "latitude": 20.9147215,
+      "longitude": 106.6735556
+    },
+    {
+      "name": "?� Th�nh",
+      "country": "VN",
+      "latitude": 16.068,
+      "longitude": 108.212
+    },
+    {
+      "name": "Amsterdam",
+      "country": "NL",
+      "latitude": 52.3727598,
+      "longitude": 4.8936041
+    },
+    {
+      "name": "Stockholm",
+      "country": "SE",
+      "latitude": 59.3251172,
+      "longitude": 18.0710935
+    }
+  ]
+}
